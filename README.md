@@ -4,7 +4,7 @@ This repository contains an anonymized baseline dataset from Aquaya's Economics 
 
 The study examines the financial and operational performance of publicly managed rural piped water systems and explores approaches for improving service delivery through performance benchmarking and performance-based funding mechanisms.
 
-The baseline dataset includes information from 39 publicly managed rural water systems operating under two management structures in Ghana. To protect confidentiality, all system identifiers and management-type labels have been removed.
+The baseline dataset includes annual financial, operational, and service delivery indicators for 39 publicly managed rural water systems in Ghana for calendar year 2023. To protect confidentiality, all system identifiers and management-type labels have been removed.
 
 ## Repository Contents
 ### Anonymized Regional Data_FINAL.xlsx
@@ -15,7 +15,9 @@ This Excel workbook contains:
 2. Anonymized baseline dataset – water system-level baseline data used in the study.
 
 ## Data Collection
-Data were collected through field visits, record reviews, and interviews with water system personnel. Information was compiled from administrative, financial, operational, and technical records maintained by participating water systems.
+Data were collected in 2024 through field visits, record reviews, and interviews with water system personnel. The indicators contained in this dataset reflect system performance during calendar year 2023.
+
+Information was compiled from administrative, financial, operational, and technical records maintained by participating water systems.
 
 Following data collection, Aquaya conducted extensive data cleaning, validation, and quality assurance procedures prior to anonymization and public release.
 
